@@ -1,0 +1,19 @@
+"name":"Let Me Tell You A History",
+"short_name":"Let Me Tell",
+"start_url":"/",
+"display":"standalone",
+"theme_color":"pink"
+"background_color":"pink",
+"icons":[
+    {
+        "src":"icon.png",
+        "sizes":"192x192",
+        "type":"image/png"
+    },
+    {
+        "src":"icon-512.png",
+        "sizes":"512x512",
+        "type":"image/png"
+    }
+]
+}

@@ -1,0 +1,97 @@
+body {
+        background-image: url(pinkbackground.jpeg);
+    }
+
+}
+
+h1 {
+
+    color:antiquewhite;
+}
+
+h2 {
+
+    color:antiquewhite
+}
+
+a {
+
+    color:black
+}
+
+#box {
+    float: right;
+    padding-left: 50px;
+    position: absolute;
+    width: 1010px;
+    height:250px;
+    top: 65%;
+    left: 15%;
+    background: -webkit-linear-gradient(top, #E9B2FF 0%, #ffa9d7 51%, #e7a4ff 100%) ; 
+    border-radius: 60px;
+    box-shadow: 2px 2px 1px 1px #333;
+    }
+
+    #square {
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        width: 500px;
+        height: 50px;
+        background: -webkit-linear-gradient(top, #E9B2FF 0%, #ffa9d7 51%, #e7a4ff 100%) ; 
+        border-radius: 50px;
+        box-shadow: 2px 2px 1px 1px #333;
+        text-align: center;
+        margin:0 auto;
+
+    }
+
+    img{
+        display:block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 400px;
+        margin-top:20px
+    }
+
+#box2 {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    width: 700px;
+    height: 400px;
+    background: -webkit-linear-gradient(top, #E9B2FF 0%, #ffa9d7 51%, #e7a4ff 100%) ; 
+    border-radius: 50px;
+    box-shadow: 2px 2px 1px 1px #333;
+    text-align: center;
+    margin:0 auto;
+
+
+}
+
+.start-over{
+    font-size: 50px;
+}
+
+label {
+    display: block;
+    padding-left: 30px;
+}
+
+#box div {
+    padding-left: 10px;
+    margin-left: 20px;
+}
+
+box3 {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    width: 700px;
+    height: 400px;
+    background: -webkit-linear-gradient(top, #000000 0%, #000000 51%, #e7a4ff 100%) ; 
+    border-radius: 50px;
+    box-shadow: 2px 2px 1px 1px #333;
+    text-align: center;
+    margin:0 auto;
+}
